@@ -21,6 +21,6 @@
 
 ## 🛡️ About Ironclad
 
-Ironclad is designed to establish a new standard for **decentralized privacy** and **secure data custody** on the blockchain.
+Ironclad is the institutional-grade interface for **Bitcoin Inheritance** and **Trustless Vesting** on the Internet Computer.
 
-By leveraging **vetKeys cryptography** and the **Internet Computer (ICP)** infrastructure, Ironclad transforms static storage into a cryptographic fortress. Users retain absolute sovereignty over their digital secrets through end-to-end encryption, eliminating reliance on centralized intermediaries while ensuring seamless on-chain accessibility.
+By leveraging **Smart Vaults** and **Dead Man Switches**, Ironclad allows users to program the future of their assets. It eliminates the need for custodial intermediaries (like lawyers or banks) by ensuring funds are automatically transferred to beneficiaries or released only when specific **Time-Lock** or **Proof-of-Life** conditions are met.
