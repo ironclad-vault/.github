@@ -1,13 +1,13 @@
 # Ironclad Vault
 
 <div align="right">
-  <a href="https://ironclad.app" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/launch-vault-obsidian.svg?style=flat&logo=fortran&logoColor=white" alt="Launch App" />
   </a>
 </div>
 
 <p align="center">
-  <a href="https://ironclad.app" target="_blank">
+  <a href="#" target="_blank">
     <img width="100" alt="Ironclad Logo" src="../assets/ironclad-vault-logo.png" />
   </a>
   <img width="100" alt="ICP Logo" src="https://cryptologos.cc/logos/internet-computer-icp-logo.png" />
